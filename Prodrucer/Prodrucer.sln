@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prodrucer", "Prodrucer.csproj", "{CAD9CF3D-6FEA-47BB-97A2-F7D7A020E32A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD9CF3D-6FEA-47BB-97A2-F7D7A020E32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD9CF3D-6FEA-47BB-97A2-F7D7A020E32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD9CF3D-6FEA-47BB-97A2-F7D7A020E32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD9CF3D-6FEA-47BB-97A2-F7D7A020E32A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D053AB4-D1DA-46B6-94EB-3C40E94538FC}
+	EndGlobalSection
+EndGlobal
